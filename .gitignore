@@ -1,0 +1,10 @@
+
+## JAVA ##
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+## JetBrains ##
+.idea/
